@@ -1,0 +1,15 @@
+.example1
+{
+	width:500px;
+	margin: auto;
+}
+body{
+	background-color:grey;
+	
+}
+blockquote{
+	border:1px;
+	border-style: solid;
+	border-color:white;
+	text-align: center;
+}
